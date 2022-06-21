@@ -1,12 +1,16 @@
+# This is the unofficial documenation for postal server. This repo is a fork of the original documentation but with more updates based on the Forked Postal Server Repo located at https://github.com/EzeeSpace/postal-server.
+
+## Why did I create this? Even though the Postal Server is a great tool to setup your own email delivery system, one of the main features that it lacks is the REST API. There is no set deadline on when this tool will have a REST API of its own, so I forked this repo and started working on the API implementation. Anybody who is interested to create PR's for API are most welcome and the turn around for PR reviews will be fast.
+
 # View the site
-👉 See the live documentation site at https://docs.postalserver.io
+👉 See the live documentation site at https://postalserver.ezee.space
 
 
 # Postal Server Documentation
 [Postal is a complete and fully featured mail server](https://postal.atech.media/) for use by websites & web servers. Think Sendgrid, Mailgun or Postmark but open source and ready for you to run on your own servers. Postal was developed by aTech Media to serve its own mail processing requirements and we have since decided that it should be released as an open source project for the community. It was originally launched by us as AppMail but renamed to Postal as part of making it open source as we felt the name was more suitable.
 
 ## The purpose of this repository
-This repository hosts the documentation for Postal only. If you are looking for the Github repo for the application source code, [go to the open source repository for Postal →](https://github.com/postalserver/postal)
+This repository hosts the documentation for Postal only. If you are looking for the Github repo for the application source code, [go to the open source repository for Postal →](https://github.com/EzeeSpace/postal-server)
 
 ## Contribution Instructions
 Contributions are welcome! Please open up a pull request that clearly describes your intentions.
